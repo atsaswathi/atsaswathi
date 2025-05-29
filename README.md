@@ -4,6 +4,8 @@
 
 🔍 I enjoy diving deep into research—whether it's quantitative analysis, primary surveys, or translating raw numbers into actionable insights. My goal is to bridge the gap between data and decision-making, contributing to marketing strategies that are both informed and impactful.
 
+📚 I'm also aspiring to learn **qualitative analysis** and **secondary research** in the coming days of work experience, aiming to hone my skillsets further in **market research**, **consumer insights**, and **business intelligence**.
+
 ---
 
 ### 🛠️ Key Skills
@@ -24,3 +26,7 @@
 
 📂 **You can find my projects here**: [GitHub Repositories](https://github.com/atsaswathi?tab=repositories)  
 📬 **Reach me on LinkedIn**: [Aswathi T S](https://www.linkedin.com/in/aswathi-t-b8b14a20a)
+
+---
+
+### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence
