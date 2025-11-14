@@ -22,7 +22,7 @@
 
 ---
 
-📈 I'm currently finished working on projects that explore consumer behavior and sustainability trends, with a special interest in the electric vehicle sector.
+📈 I currently finished working on projects that explore consumer behavior and sustainability trends, with a special interest in the electric vehicle sector.
 
 🌱 Always learning. Always curious.
 
@@ -31,4 +31,4 @@
 
 ---
 
-### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence
+### 🔎 Buisness Analysis | Market Research | Consumer Insights | Data Analyst | Business Intelligence
