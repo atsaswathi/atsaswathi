@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Aswathi T S (she/her)
 
-🎯 I'm a passionate Data analysis and insights enthusiast with a strong foundation in market research, business analysis and consumer insights. My academic and internship experiences have shaped my analytical thinking, problem-solving skills, and ability to draw meaningful narratives from data.
+🎯 I'm a passionate Data-driven analysis and insights enthusiast with a strong foundation in market research, business analysis and consumer insights. My academic and internship experiences have shaped my analytical thinking, problem-solving skills, and ability to draw meaningful narratives from data.
 
 🔍 I enjoy diving deep into research—whether it's quantitative analysis, primary surveys, or translating raw numbers into actionable insights. My goal is to bridge the gap between data and decision-making, contributing to marketing strategies that are both informed and impactful.
 
