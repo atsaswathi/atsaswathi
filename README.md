@@ -28,6 +28,7 @@
 
 📂 **You can find my projects here**: [GitHub Repositories](https://github.com/atsaswathi?tab=repositories)  
 📝 **You can find my medium blog here**: [Medium Blog](https://medium.com/@aswathits64)
+
 📬 **Reach me on LinkedIn**: [Aswathi T S](https://www.linkedin.com/in/aswathi-t-b8b14a20a)
 
 ---
