@@ -33,4 +33,4 @@
 
 ---
 
-### 🔎 Business Analysis | Market Research | Consumer Insights | Data Analyst | Business Intelligence
+### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence | Quantitative Analysis 
