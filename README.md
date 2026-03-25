@@ -10,8 +10,7 @@
 
 ### 🛠️ Key Skills
 - **Power BI/QlikSense** – Data visualization & dashboard creation
-- **HubSpot** - Customer Relationship management
-- **Lucid Chart** - Business Analysis
+- **SQL** - Data Cleaning and Aggregation
 - **Microsoft Excel (Pivot Tables)** – Advanced data analysis & interpretation  
 - **Analytical Thinking** – Pattern recognition, insight generation  
 - **Problem Solving** – Structured approach to research challenges  
@@ -33,4 +32,4 @@
 
 ---
 
-### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence | Quantitative Analysis 
+### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence | Quantitative Analysis | SQL | Power BI
