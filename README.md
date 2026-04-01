@@ -27,7 +27,7 @@
 
 📂 **You can find my projects here**: [GitHub Repositories](https://github.com/atsaswathi?tab=repositories)  
 📝 **You can find my medium blog here**: [Medium Blog](https://medium.com/@aswathits64)
-
+💻 **You can find my resume here** : [My Resume](https://drive.google.com/file/d/1VHsyKX9TZXgJmpgyG8Ch-9i41ItKrd_-/view?usp=drivesdk)
 📬 **Reach me on LinkedIn**: [Aswathi T S](https://www.linkedin.com/in/aswathi-t-b8b14a20a)
 
 ---
