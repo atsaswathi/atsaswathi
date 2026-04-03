@@ -35,4 +35,4 @@
 
 ---
 
-### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence | Quantitative Analysis | SQL | Power BI
+### 🔎 Market Research | Consumer Insights | Data Analyst | Business Intelligence | Quantitative Analysis | SQL | Power BI | Claude AI
