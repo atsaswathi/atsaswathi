@@ -11,6 +11,7 @@
 ### 🛠️ Key Skills
 - **Power BI/QlikSense** – Data visualization & dashboard creation
 - **SQL** - Data Cleaning and Aggregation
+- **Claude AI** - Data Cleaning and Validation 
 - **Microsoft Excel (Pivot Tables, Data Cleaning)** – Advanced data analysis & interpretation  
 - **Analytical Thinking** – Pattern recognition, insight generation  
 - **Problem Solving** – Structured approach to research challenges  
