@@ -2,7 +2,7 @@
 
 🎯 I'm a passionate Data-driven analysis and insights enthusiast with a strong foundation in market research, business analysis and consumer insights. My academic and internship experiences have shaped my analytical thinking, problem-solving skills, and ability to draw meaningful narratives from data.
 
-🔍 I enjoy diving deep into research—whether it's quantitative analysis, primary surveys, or translating raw numbers into actionable insights. My goal is to bridge the gap between data and decision-making, contributing to marketing strategies that are both informed and impactful.
+🔍 I enjoy diving deep into research whether it's quantitative analysis, primary surveys, or translating raw numbers into actionable insights. My goal is to bridge the gap between data and decision-making, contributing to marketing strategies that are both informed and impactful.
 
 📚 I'm also aspiring to learn **qualitative analysis** and **secondary research** in the coming days of work experience, aiming to hone my skillsets further in **market research**, **consumer insights**, and **business intelligence**.
 
